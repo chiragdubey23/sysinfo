@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 # SysInfo
 
 A simple Windows batch script (`sysinfo.bat`) that shows basic system information.  
